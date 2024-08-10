@@ -1,0 +1,9 @@
+1> Download composer and install it.
+
+2> composer create-project laravel/laravel myapp 10.1.1 --prefer-dist
+
+3> Create a Model and Migration - php artisan make:model Item -m
+
+4> 
+
+3> php artisan serve
